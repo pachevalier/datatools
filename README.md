@@ -16,4 +16,4 @@
  ## Browse JSON
  
  * [fx](https://github.com/antonmedv/fx)
-  * Type : command line
+   * Type : command line
