@@ -1,4 +1,11 @@
-# datatools
+# Data Tools
+
+A simple list of tools to deal with data
+
+## Graphics and charts
+
+* [Fastcharts](https://fastcharts.io/)
+  * Created by [FTGraphics]  
 
 ## Analyse documents
 
