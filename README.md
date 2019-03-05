@@ -7,3 +7,13 @@
 ## Extract tables from PDF
 
 * [Excalibur](https://www.tryexcalibur.com/)
+
+## Browse CSV
+
+* [tabview](https://github.com/TabViewer/tabview)
+  * Type : command line
+ 
+ ## Browse JSON
+ 
+ * [fx](https://github.com/antonmedv/fx)
+  * Type : command line
