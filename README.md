@@ -25,3 +25,8 @@ A simple list of tools to deal with data
  
  * [fx](https://github.com/antonmedv/fx)
    * Type : command line
+
+## Tagging
+
+* [Doccano](https://github.com/chakki-works/doccano/wiki)
+ 
