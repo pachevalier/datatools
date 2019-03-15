@@ -6,9 +6,9 @@ A simple list of tools to deal with data
 
 * [DataWrapper](https://www.datawrapper.de/)
 * [RAWgraphs](https://rawgraphs.io/)
- * Created by DensityDesign
+  * Created by DensityDesign
 * [Chartbuilder](http://quartz.github.io/Chartbuilder/)
- * Created by [Quartz](https://github.com/Quartz)
+  * Created by [Quartz](https://github.com/Quartz)
 * [Fastcharts](https://fastcharts.io/)
   * Created by [FTGraphics](https://github.com/ft-interactive)  
   
@@ -31,12 +31,12 @@ A simple list of tools to deal with data
 ## Browse CSV
 
 * [tabview](https://github.com/TabViewer/tabview)
-  * Type : command line
+   * Type : command line
  
  ## Browse JSON
  
  * [fx](https://github.com/antonmedv/fx)
-   * Type : command line
+    * Type : command line
 
 ## Tagging
 
