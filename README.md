@@ -17,6 +17,10 @@ A simple list of tools to deal with data
 * [uMap](https://umap.openstreetmap.fr/fr/)
 * [Kepler.gl](https://kepler.gl/)
 
+## Dashboards
+
+* [Metabase](https://github.com/metabase/metabase)
+
 ## Analyse documents
 
 * [Datashare](https://github.com/ICIJ/datashare)
