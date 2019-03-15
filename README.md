@@ -6,10 +6,12 @@ A simple list of tools to deal with data
 
 * [DataWrapper](https://www.datawrapper.de/)
 * [RAWgraphs](https://rawgraphs.io/)
+ * Created by DensityDesign
 * [Chartbuilder](http://quartz.github.io/Chartbuilder/)
+ * Created by [Quartz](https://github.com/Quartz)
 * [Fastcharts](https://fastcharts.io/)
-  * Created by [FTGraphics]  
-
+  * Created by [FTGraphics](https://github.com/ft-interactive)  
+  
 ## Maps
 
 * [uMap](https://umap.openstreetmap.fr/fr/)
@@ -39,4 +41,5 @@ A simple list of tools to deal with data
 ## Tagging
 
 * [Doccano](https://github.com/chakki-works/doccano/wiki)
- 
+* [WebAnno](https://webanno.github.io/webanno/)
+* [BRAT](http://brat.nlplab.org/)
