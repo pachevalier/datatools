@@ -31,12 +31,12 @@ A simple list of tools to deal with data
 ## Browse CSV
 
 * [tabview](https://github.com/TabViewer/tabview)
-   * Type : command line
+  * Type : command line
+
+## Browse JSON
  
- ## Browse JSON
- 
- * [fx](https://github.com/antonmedv/fx)
-    * Type : command line
+* [fx](https://github.com/antonmedv/fx)
+  * Type : command line
 
 ## Tagging
 
