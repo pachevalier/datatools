@@ -11,6 +11,9 @@ A simple list of tools to deal with data
   * Created by [Quartz](https://github.com/Quartz)
 * [Fastcharts](https://fastcharts.io/)
   * Created by [FTGraphics](https://github.com/ft-interactive)  
+* [Palladio](http://hdlab.stanford.edu/palladio/)
+  * Map, graph, table and gallery
+  * Can be connected to a SPARQL endpoint (eg Wikidata.org)
   
 ## Maps
 
