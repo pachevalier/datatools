@@ -50,3 +50,10 @@ A simple list of tools to deal with data
 * [Doccano](https://github.com/chakki-works/doccano/wiki)
 * [WebAnno](https://webanno.github.io/webanno/)
 * [BRAT](http://brat.nlplab.org/)
+
+## Open data portals
+
+* [udata](https://github.com/opendatateam/udata)
+* [metaclic](https://github.com/datakode/metaclic), front end interface for udata
+* [jkan](https://github.com/timwis/jkan), static open data portal, made with Jekyll
+* [ckan](https://ckan.org/)
