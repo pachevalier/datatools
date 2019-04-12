@@ -20,6 +20,10 @@ A simple list of tools to deal with data
 * [uMap](https://umap.openstreetmap.fr/fr/)
 * [Kepler.gl](https://kepler.gl/)
 
+## Data workflows
+
+* [Workbench](http://workbenchdata.com/)
+
 ## Dashboards
 
 * [Metabase](https://github.com/metabase/metabase)
