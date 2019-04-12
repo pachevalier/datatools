@@ -21,7 +21,8 @@ A simple list of tools to deal with data
 * [Kepler.gl](https://kepler.gl/)
 * [Magrit](http://magrit.cnrs.fr/)
   * Orienté print
-  
+* [MapShaper](https://mapshaper.org/)
+
 ## Data workflows
 
 * [Workbench](http://workbenchdata.com/)
