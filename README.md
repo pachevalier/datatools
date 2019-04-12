@@ -19,7 +19,9 @@ A simple list of tools to deal with data
 
 * [uMap](https://umap.openstreetmap.fr/fr/)
 * [Kepler.gl](https://kepler.gl/)
-
+* [Magrit](http://magrit.cnrs.fr/)
+  * Orienté print
+  
 ## Data workflows
 
 * [Workbench](http://workbenchdata.com/)
