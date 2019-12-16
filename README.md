@@ -42,6 +42,10 @@ A simple list of tools to deal with data
 * [Tabula](https://tabula.technology/)
 * [Excalibur](https://www.tryexcalibur.com/)
 
+## Information extraction 
+
+* [grobid](https://github.com/kermitt2/grobid) : information extraction for scholarly documents
+
 ## Browse CSV
 
 * [tabview](https://github.com/TabViewer/tabview)
