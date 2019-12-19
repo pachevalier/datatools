@@ -56,12 +56,13 @@ A simple list of tools to deal with data
 * [fx](https://github.com/antonmedv/fx)
   * Type : command line
 
-## Tagging
+## Annotation
 
 * [Doccano](https://github.com/chakki-works/doccano/wiki)
 * [WebAnno](https://webanno.github.io/webanno/)
 * [BRAT](http://brat.nlplab.org/)
-
+* [YEDDA](https://github.com/jiesutd/YEDDA)
+* [PIAF](https://github.com/etalab/piaf) : 
 ## Open data portals
 
 * [udata](https://github.com/opendatateam/udata)
