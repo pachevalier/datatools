@@ -62,7 +62,9 @@ A simple list of tools to deal with data
 * [WebAnno](https://webanno.github.io/webanno/)
 * [BRAT](http://brat.nlplab.org/)
 * [YEDDA](https://github.com/jiesutd/YEDDA)
-* [PIAF](https://github.com/etalab/piaf) : 
+* [PIAF](https://github.com/etalab/piaf)
+* [Label Studio](https://labelstud.io/)
+
 ## Open data portals
 
 * [udata](https://github.com/opendatateam/udata)
