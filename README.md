@@ -56,6 +56,10 @@ A simple list of tools to deal with data
 * [fx](https://github.com/antonmedv/fx)
   * Type : command line
 
+## Conversion
+
+* [Knead](https://github.com/hay/dataknead)
+
 ## Annotation
 
 * [Doccano](https://github.com/chakki-works/doccano/wiki)
