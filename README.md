@@ -60,6 +60,11 @@ A simple list of tools to deal with data
 
 * [Knead](https://github.com/hay/dataknead)
 
+## Data wrangling 
+
+* [Miller](https://github.com/johnkerl/miller)
+ * Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON http://johnkerl.org/miller/doc
+
 ## Annotation
 
 * [Doccano](https://github.com/chakki-works/doccano/wiki)
@@ -75,3 +80,7 @@ A simple list of tools to deal with data
 * [metaclic](https://github.com/datakode/metaclic), front end interface for udata
 * [jkan](https://github.com/timwis/jkan), static open data portal, made with Jekyll
 * [ckan](https://ckan.org/)
+
+## References
+
+* [Data science at the command line](https://www.datascienceatthecommandline.com/)
