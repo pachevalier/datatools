@@ -73,6 +73,7 @@ A simple list of tools to deal with data
 * [YEDDA](https://github.com/jiesutd/YEDDA)
 * [PIAF](https://github.com/etalab/piaf)
 * [Label Studio](https://labelstud.io/)
+* [Tessele](https://medialab.github.io/tesselle/#/)
 
 ## Open data portals
 
