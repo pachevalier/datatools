@@ -14,7 +14,7 @@ A simple list of tools to deal with data
 * [Palladio](http://hdlab.stanford.edu/palladio/)
   * Map, graph, table and gallery
   * Can be connected to a SPARQL endpoint (eg Wikidata.org)
-  
+
 ## Maps
 
 * [uMap](https://umap.openstreetmap.fr/fr/)
@@ -48,12 +48,20 @@ A simple list of tools to deal with data
 
 ## Browse CSV
 
+* [dplyr-cli](https://github.com/coolbutuseless/dplyr-cli)
+  * Type : command line
+* [xsv](https://github.com/BurntSushi/xsv)
+  * Type : command line
 * [tabview](https://github.com/TabViewer/tabview)
   * Type : command line
+* [Miller](https://github.com/johnkerl/miller)
+ * Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON http://johnkerl.org/miller/doc
 
 ## Browse JSON
  
 * [fx](https://github.com/antonmedv/fx)
+  * Type : command line
+* [jq](https://stedolan.github.io/jq/)
   * Type : command line
 
 ## Conversion
@@ -62,8 +70,12 @@ A simple list of tools to deal with data
 
 ## Data wrangling 
 
-* [Miller](https://github.com/johnkerl/miller)
- * Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON http://johnkerl.org/miller/doc
+* [OpenRefine](https://openrefine.org/)
+
+## API
+
+* [csvapi](https://github.com/etalab/csvapi)
+* [datasette](https://github.com/simonw/datasette)
 
 ## Annotation
 
