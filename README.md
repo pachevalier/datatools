@@ -97,3 +97,5 @@ A simple list of tools to deal with data
 ## References
 
 * [Data science at the command line](https://www.datascienceatthecommandline.com/)
+* [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
+* [Awesome Data Labeling](https://github.com/heartexlabs/awesome-data-labeling)
