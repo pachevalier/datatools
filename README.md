@@ -18,7 +18,7 @@ A simple list of tools to deal with data
 ## Maps
 
 * [uMap](https://umap.openstreetmap.fr/fr/)
-* [Kepler.gl](https://kepler.gl/)
+* [Kepler‧gl](https://kepler.gl/)
 * [Magrit](http://magrit.cnrs.fr/)
   * Orienté print
 * [MapShaper](https://mapshaper.org/)
@@ -29,6 +29,11 @@ A simple list of tools to deal with data
 
 ## Dashboards
 
+* [Metabase](https://github.com/metabase/metabase)
+
+## Database/SQL client
+
+* [Falcon](https://github.com/plotly/falcon)
 * [Metabase](https://github.com/metabase/metabase)
 
 ## Analyse documents
