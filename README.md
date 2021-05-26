@@ -99,6 +99,10 @@ A simple list of tools to deal with data
 * [jkan](https://github.com/timwis/jkan), static open data portal, made with Jekyll
 * [ckan](https://ckan.org/)
 
+## HCR
+
+* [kraken](https://github.com/mittagessen/kraken)
+
 ## References
 
 * [Data science at the command line](https://www.datascienceatthecommandline.com/)
