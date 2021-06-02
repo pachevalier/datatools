@@ -81,6 +81,7 @@ A simple list of tools to deal with data
 
 * [csvapi](https://github.com/etalab/csvapi)
 * [datasette](https://github.com/simonw/datasette)
+* [fastapi-csv](https://github.com/jrieke/fastapi-csv)
 
 ## Annotation
 
