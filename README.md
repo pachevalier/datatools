@@ -14,6 +14,7 @@ A simple list of tools to deal with data
 * [Palladio](http://hdlab.stanford.edu/palladio/)
   * Map, graph, table and gallery
   * Can be connected to a SPARQL endpoint (eg Wikidata.org)
+ * [ObservableHQ](observablehq.com/) 
 
 ## Maps
 
@@ -22,6 +23,7 @@ A simple list of tools to deal with data
 * [Magrit](http://magrit.cnrs.fr/)
   * Orienté print
 * [MapShaper](https://mapshaper.org/)
+* [mviewer](https://mviewer.netlify.app/fr/)
 
 ## Data workflows
 
