@@ -71,9 +71,11 @@ A simple list of tools to deal with data
 * [jq](https://stedolan.github.io/jq/)
   * Type : command line
 
+
 ## Conversion
 
 * [Knead](https://github.com/hay/dataknead)
+* [Flatterer](https://flatterer.opendata.coop/) converts json to tabular data
 
 ## Data wrangling 
 
