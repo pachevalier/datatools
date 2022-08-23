@@ -63,6 +63,7 @@ A simple list of tools to deal with data
   * Type : command line
 * [Miller](https://github.com/johnkerl/miller)
  * Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON http://johnkerl.org/miller/doc
+* [Visidata](https://www.visidata.org/)
 
 ## Browse JSON
  
