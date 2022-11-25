@@ -82,6 +82,10 @@ A simple list of tools to deal with data
 
 * [OpenRefine](https://openrefine.org/)
 
+## Fuzzy matching
+
+* [Crosswalker](https://crosswalker.washingtonpost.com/) 
+
 ## API
 
 * [csvapi](https://github.com/etalab/csvapi)
