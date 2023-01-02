@@ -21,9 +21,10 @@ A simple list of tools to deal with data
 * [uMap](https://umap.openstreetmap.fr/fr/)
 * [Kepler‧gl](https://kepler.gl/)
 * [Magrit](http://magrit.cnrs.fr/)
-  * Orienté print
+  * static maps
 * [MapShaper](https://mapshaper.org/)
 * [mviewer](https://mviewer.netlify.app/fr/)
+* [cocarto](https://cocarto.com/) nice app developed by Codeurs en liberté. It allows to collaboratively edit points, lines and shapes on a map.
 
 ## Data workflows
 
@@ -71,8 +72,7 @@ A simple list of tools to deal with data
   * Type : command line
 * [jq](https://stedolan.github.io/jq/)
   * Type : command line
-
-
+  
 ## Conversion
 
 * [Knead](https://github.com/hay/dataknead)
