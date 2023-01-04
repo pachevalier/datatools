@@ -25,6 +25,7 @@ A simple list of tools to deal with data
 * [MapShaper](https://mapshaper.org/)
 * [mviewer](https://mviewer.netlify.app/fr/)
 * [cocarto](https://cocarto.com/) nice app developed by Codeurs en liberté. It allows to collaboratively edit points, lines and shapes on a map.
+* [khartis](https://www.sciencespo.fr/cartographie/khartis/) developed by Medialab Sciences Po.
 
 ## Data workflows
 
