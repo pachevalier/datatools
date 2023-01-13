@@ -19,7 +19,7 @@ A simple list of tools to deal with data
 ## Maps
 
 * [uMap](https://umap.openstreetmap.fr/fr/)
-* [Kepler‧gl](https://kepler.gl/)
+* [Kepler.gl](https://kepler.gl/)
 * [Magrit](http://magrit.cnrs.fr/)
   * static maps
 * [MapShaper](https://mapshaper.org/)
