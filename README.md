@@ -1,6 +1,6 @@
 # Data Tools
 
-A simple list of tools to deal with data
+A simple list of open source tools to deal with data
 
 ## Graphics and charts
 
@@ -83,6 +83,7 @@ A simple list of tools to deal with data
 ## Data wrangling 
 
 * [OpenRefine](https://openrefine.org/)
+* [TadViewer](https://www.tadviewer.com/)
 
 ## Fuzzy matching
 
