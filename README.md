@@ -111,6 +111,7 @@ A simple list of open source tools to deal with data
 * [metaclic](https://github.com/datakode/metaclic), front end interface for udata
 * [jkan](https://github.com/timwis/jkan), static open data portal, made with Jekyll
 * [ckan](https://ckan.org/)
+* [datafair](https://github.com/data-fair/data-fair)
 
 ## HCR
 
