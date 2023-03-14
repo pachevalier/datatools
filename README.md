@@ -1,6 +1,6 @@
 # Data Tools
 
-A simple list of open source tools to deal with data
+A simple list of awesome open source tools to deal with data
 
 ## Graphics and charts
 
