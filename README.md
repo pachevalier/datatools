@@ -35,6 +35,7 @@ A simple list of open source tools to deal with data
 ## Dashboards
 
 * [Metabase](https://github.com/metabase/metabase)
+* [SuperSet](https://superset.apache.org/)
 
 ## Database/SQL client
 
