@@ -28,10 +28,6 @@ A simple list of open source tools to deal with data
 * [cocarto](https://cocarto.com/) nice app developed by Codeurs en liberté. It allows to collaboratively edit points, lines and shapes on a map.
 * [khartis](https://www.sciencespo.fr/cartographie/khartis/) developed by Medialab Sciences Po.
 
-## Data workflows
-
-* [Workbench](http://workbenchdata.com/)
-
 ## Dashboards
 
 * [Metabase](https://github.com/metabase/metabase)
@@ -89,6 +85,11 @@ A simple list of open source tools to deal with data
 ## Fuzzy matching
 
 * [Crosswalker](https://crosswalker.washingtonpost.com/) 
+
+## Workflows
+
+* [Airflow](https://airflow.apache.org/)
+* [Prefect](https://www.prefect.io/)
 
 ## API
 
