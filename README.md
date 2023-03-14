@@ -14,7 +14,7 @@ A simple list of awesome open source tools to deal with data
 * [Palladio](http://hdlab.stanford.edu/palladio/)
   * Map, graph, table and gallery
   * Can be connected to a SPARQL endpoint (eg Wikidata.org)
-  * [ObservableHQ](observablehq.com/) 
+* [ObservableHQ](observablehq.com/) 
 * [Voyager2](https://vega.github.io/voyager2/) : data explorer based on Vega
   
 ## Maps
