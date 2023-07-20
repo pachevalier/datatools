@@ -64,6 +64,7 @@ A simple list of awesome open source tools to deal with data
 * [Miller](https://github.com/johnkerl/miller)
  * Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON http://johnkerl.org/miller/doc
 * [Visidata](https://www.visidata.org/)
+* [modern csv](https://www.moderncsv.com/) 
 
 ## Browse JSON
  
