@@ -82,6 +82,7 @@ A simple list of awesome open source tools to deal with data
 
 * [OpenRefine](https://openrefine.org/)
 * [TadViewer](https://www.tadviewer.com/)
+* [OpenDataEditor](https://opendataeditor.okfn.org/) 
 
 ## Fuzzy matching
 
