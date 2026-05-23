@@ -86,6 +86,7 @@ A simple list of awesome open source tools to deal with data
 ## Data wrangling 
 
 * [OpenRefine](https://openrefine.org/)
+* [DataLens](https://datalens.uk/) : AI web data workspace for scraping, cleaning, analysis, and dataset export
 * [TadViewer](https://www.tadviewer.com/)
 * [OpenDataEditor](https://opendataeditor.okfn.org/) 
 
